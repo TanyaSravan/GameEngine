@@ -10,4 +10,5 @@
 		#error Game engine only supports Windows
 #endif
 
-
+// Bit definition for the event filter 
+#define BIT(x) (1<<x)
