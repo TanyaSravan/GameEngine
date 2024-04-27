@@ -9,6 +9,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\GEpch.h" />
     <ClInclude Include="src\GameEngine.h" />
     <ClInclude Include="src\GameEngine\Application.h">
       <Filter>GameEngine</Filter>
@@ -36,6 +37,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\GEpch.cpp" />
     <ClCompile Include="src\GameEngine\Application.cpp">
       <Filter>GameEngine</Filter>
     </ClCompile>

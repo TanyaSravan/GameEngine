@@ -2,9 +2,6 @@
 
 #include "GameEngine/Core.h"
 
-//C++ std lib should all be in precomplied headers not here
-#include <string>
-#include<functional>
 
 namespace GameEngine {
 	

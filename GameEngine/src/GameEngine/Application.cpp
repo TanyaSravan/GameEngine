@@ -1,3 +1,4 @@
+#include "GEpch.h"
 #include "Application.h"
 #include <GameEngine/Events/ApplicationEvents.h>
 #include "log.h"
